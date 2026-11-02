@@ -1,0 +1,1 @@
+export default function Viewfinder({children}){return <div className="viewfinder"><i className="tl"/><i className="tr"/>{children}<i className="bl"/><i className="br"/></div>}

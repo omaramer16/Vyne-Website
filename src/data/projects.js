@@ -1,0 +1,43 @@
+// Replace or extend these entries with real client names, logos and media assets.
+// Keep media paths inside /public (for example: /videos/campaign-film.mp4).
+export const projects = [
+  {
+    slug: "creative-production-01",
+    number: "01",
+    name: "CREATIVE PRODUCTION 01",
+    category: "CREATIVE / PRODUCTION",
+    location: "CAIRO / EGYPT",
+    image: "/images/IMG_6036.PNG",
+    logo: "",
+    summary: "A visual production project built around a clear creative direction.",
+    services: ["Creative Direction", "Photo / Video Production", "Campaign Content"],
+    videos: [],
+    gallery: ["/images/IMG_6036.PNG", "/images/IMG_6264.JPG.jpeg"],
+  },
+  {
+    slug: "brand-digital-02",
+    number: "02",
+    name: "BRAND / DIGITAL 02",
+    category: "BRAND / DIGITAL",
+    location: "CAIRO / EGYPT",
+    image: "/images/IMG_6044.PNG",
+    logo: "",
+    summary: "A brand-focused visual direction for a connected digital experience.",
+    services: ["Brand Direction", "Digital Content", "Visual Design"],
+    videos: [],
+    gallery: ["/images/IMG_6044.PNG", "/images/IMG_6266.JPG.jpeg"],
+  },
+  {
+    slug: "campaign-content-03",
+    number: "03",
+    name: "CAMPAIGN / CONTENT 03",
+    category: "CAMPAIGN / CONTENT",
+    location: "CAIRO / EGYPT",
+    image: "/images/IMG_6263.JPG.jpeg",
+    logo: "",
+    summary: "A campaign content project focused on making the message visible.",
+    services: ["Campaign Concept", "Content Production", "Art Direction"],
+    videos: [],
+    gallery: ["/images/IMG_6263.JPG.jpeg", "/images/IMG_6267.JPG.jpeg", "/images/IMG_6268.JPG.jpeg"],
+  },
+];
